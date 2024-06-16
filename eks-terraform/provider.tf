@@ -9,5 +9,5 @@ terraform {
 
 # Configure the AWS Provider
 provider "aws" {
-  region = "us-east-2" //this region ohio
+  region = "eu-central-1" //this region ohio
 }
